@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-	cout << "Hello World\n";
+	cout << "Hello king\n";
 	cout << "Nama\t : Wisnala Aryawiduta\n";
 	cout << "NIM\t : 22.11.5168\n";
 	cout << "Jurusan\t : Informatika\n";
